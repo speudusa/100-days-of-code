@@ -2,6 +2,43 @@
 
 
 
+### Day 3: Mon, Oct 5, 2020
+
+
+**Today's Progress**: Working on the AddBook feature 
+
+**Thoughts/Notes/Braindump space:** Want to create book object and have it appear on the home view in a table
+
+**Pre-Build Space -->**  KISS
+    - create book object (check)
+    - pull book object back onto home index view <--
+    - have buttons work:  Add new book -> Book ViewModel  and then Actually add book button -> return to home index and appear on the home index table
+          - SOOO close to having this.  
+
+**Post-Build Space: -->**
+    - Removed ReadingList Contrller to create Shelf items (Model, View, ViewModel - using Home as Controller)
+    - Stuck with importing book data.
+    - plans for tonight = pick up here
+
+**Link to work:**  https://github.com/speudusa/OPM
+
+**------------------------------------------------------**
+
+### Day 2: Oct 2, 2020
+
+
+**Today's Progress**: Created new branch that has my notes
+
+**Thoughts/Notes/Braindump space:** 
+
+**Pre-Build Space -->**  
+
+**Post-Build Space: -->**
+
+**Link to work:**
+
+**------------------------------------------------------**
+
 ### Day 1:  Oct 1, 2020
 
 **Today's Progress**: Building One Page More
