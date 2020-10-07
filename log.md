@@ -1,5 +1,45 @@
 # 100 Days Of Code - Log
 
+### Day 5: Wed, Oct 7, 2020
+
+**Today's Progress**:  Started a new project.  It's cleaner.    
+
+**Thoughts/Notes/Braindump space:** I know what I want, but a clean space will help me build it.  I can use my last project to help me keep things straight.  
+
+**Pre-Build Space -->**  Using my textbook and videos, I started at the VERY VERY beginning.  As in "In the beginning there was only a Home Controller..."   While this feels VERY underwhelming and takes a hit at the morale, I know that I need the space and blank slate to rebuild.
+
+**Post-Build Space: -->**  Created *Books Controller* and the following Books *View:  /Add and /Index*
+The **Index view** will list all books (it's basically a bookshelf)
+    - initially I hard coded this to verify that it works
+    - I then replaced it with an Add and NewBook method
+          - **Add** = HttpGet and takes us to the Add View
+          - **NewBook** = HttpPost and allows us to update the view after the for is filled out (in the Add view)
+    - titles are posted via foreach loop
+The **Add view** will allow us to add books
+     - contains a form to collect titles at this time
+
+**Link to work:** https://github.com/speudusa/BearPawPages
+
+**------------------------------------------------------**
+
+
+### Day 4: Tues, Oct 6, 2020
+
+
+**Today's Progress**: Simplify.  All I need right now, is a MVP.  User Account and CRUD features are all I need.  
+
+**Thoughts/Notes/Braindump space:** KISS.  
+
+**Pre-Build Space -->**  What can I use my home controller for?  Add methods, About method?  
+Need an Add View, About view.
+
+Where will editing/deleting happen?  On the About View.  Think about that.  
+
+**Post-Build Space: -->**  
+Decided to start over.  
+
+
+**Link to work:** https://github.com/speudusa/OPM
 
 
 ### Day 3: Mon, Oct 5, 2020
