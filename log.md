@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 6: Thurs, Oct 8, 2020
+
+**Today's Progress**:  Delete functionallity
+
+**Thoughts/Notes/Braindump space:**  delete functionality 
+updated data management.
+
+**Pre-Build Space -->** need to add some ids to my objects, and create data management.  
+
+created data folder which will be responsible for the data instead of the book controller.
+
+**Post-Build Space: -->**  
+it works.  
+  * I can add a book, and the ids
+  * each new book is stored in a dictionary in the data folder at the moment.  (eventually this will move to a database)
+  * I can select books to delete 
+
+
+I like where this is going so far.  Slowing down and starting over has really helped.  Also, as this is the second time around, my build has less bugs in it and I'm able to free-form more to fit the needs of my project.  (highfive!)
+
+**Link to work:** https://github.com/speudusa/BearPawPages
+
+**------------------------------------------------------**
+
 ### Day 5: Wed, Oct 7, 2020
 
 **Today's Progress**:  Started a new project.  It's cleaner.    
