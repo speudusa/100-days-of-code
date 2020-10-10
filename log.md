@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 7: Fri, Oct 9, 2020
+
+**Today's Progress**:  Created the Edit features
+
+**Thoughts/Notes/Braindump space:**  Using ViewBags right now.  
+
+**Pre-Build Space -->**   Want to be able to edit entire book object, and update page numbers and notes
+
+**Post-Build Space: -->**  
+   - Created edit function to edit the entire book object.
+   - Created "Bookmark featuer that ONLY updates the page number and notes
+ 
+**Link to work:** https://github.com/speudusa/BearPawPages
+
+**------------------------------------------------------**
+
+
 ### Day 6: Thurs, Oct 8, 2020
 
 **Today's Progress**:  Delete functionallity
