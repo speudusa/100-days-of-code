@@ -1,5 +1,36 @@
 # 100 Days Of Code - Log
 
+### Day 0: TEMPLATE
+
+
+**Today's Progress**: 
+
+**Thoughts/Notes/Braindump space:** 
+
+**Pre-Build Space -->**  
+
+**Post-Build Space: -->**
+
+**Link to work:**
+
+**------------------------------------------------------**
+
+### Day 8: Mon, Ocy 12, 2020
+
+
+**Today's Progress**: created viewmodles to assist with validation
+
+**Thoughts/Notes/Braindump space:** 
+
+**Pre-Build Space -->**  
+
+**Post-Build Space: -->**  i want to do this with my edit function...
+
+**Link to work:**  https://github.com/speudusa/BearPawPages
+
+**------------------------------------------------------**
+
+
 ### Day 7: Fri, Oct 9, 2020
 
 **Today's Progress**:  Created the Edit features
