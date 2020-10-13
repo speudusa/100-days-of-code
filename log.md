@@ -15,6 +15,21 @@
 
 **------------------------------------------------------**
 
+### Day 9: Tues, Oct 13, 2020
+
+
+**Today's Progress**: Initalized persistent data storage
+
+**Thoughts/Notes/Braindump space:**  Remember to download nuget packages
+
+**Pre-Build Space -->**  Want to create presisent data to create other tables using my book object and edit functions
+
+**Post-Build Space: -->**  mySQL Db is connected to my initial table.  Time to start planning relationships and how I want to build new tables
+
+**Link to work:**  https://github.com/speudusa/BearPawPages
+
+**------------------------------------------------------**
+
 ### Day 8: Mon, Ocy 12, 2020
 
 
