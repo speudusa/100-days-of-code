@@ -15,6 +15,25 @@
 
 **------------------------------------------------------**
 
+### Day 10: Thurs, Oct 15, 2020
+
+
+**Today's Progress**: Step 1:  Complete final class survey [check]
+Step 2: Creating Reader Option (DD to select who is reading which book)
+
+**Thoughts/Notes/Braindump space:**   This is the start of creating relationships between 2 tables.  
+
+**Pre-Build Space -->**  Have my book table ready to go.  Need to create Reader (Model, Controller, and View)
+
+**Post-Build Space: -->**
+Okay, so I now have a Reader Controller, Model, ViewModel, and Views(Index,CreateReader)
+
+Ran into issues with converting my Edit function to start using my dBContext
+
+**Link to work:** https://github.com/speudusa/BearPawPages
+
+**------------------------------------------------------**
+
 ### Day 9: Tues, Oct 13, 2020
 
 
