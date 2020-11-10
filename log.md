@@ -15,6 +15,22 @@
 
 **------------------------------------------------------**
 
+### Day 11: Tues, Nov 10, 2020
+
+**Today's Progress**: Updating from Viewbag to ViewModels in .ASP Core MVC application.  
+
+**Thoughts/Notes/Braindump space:** Things got very busy with the house.  The house repairs FINALLY got started, so I was down a work space and work time.  Good news, the basement is getting closer and closer to being done.  Hubs and I replumbed the downstairs basement.  And the kiddos had their fall break.  Busy busy busy.  But now my morining time to code has returned, so this is a good thing.  Back to the challenge.  Also, got my official letter that states I'm in the apprenticeship pool!  YAY!
+
+**Pre-Build Space -->**  Returned to my Book project.  SOOOOOO  glad I left myself some good notes about where to go next.  Not super happy about the state I left my transition from Viewbag to ViewModel.  But this will be a good place to review and pick up from.  
+
+**Post-Build Space: -->**  Have the HttpGet functions working with ViewModels.  Having trouble with the POST side of the functions.  It's been a while, need to revisit this in past lessons.  
+
+
+**Link to work:** https://github.com/speudusa/BearPawPages
+
+**------------------------------------------------------**
+
+
 ### Day 10: Thurs, Oct 15, 2020
 
 
