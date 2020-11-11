@@ -15,6 +15,21 @@
 
 **------------------------------------------------------**
 
+### Day 12: Wed, Nov 11, 2020
+
+
+**Today's Progress**: Updating my Razor pages and working more with my ViewBag/ViewModel transitions.  
+
+**Thoughts/Notes/Braindump space:** Write it down in PLAIN ENGLISH.  yes, yes.  How am I calling things?  How do they know what to do?  
+
+**Pre-Build Space -->**  Was having problems calling my Models into the Razor pages.  Inheritence between MVC parts is still confusing.  I know what I want it to do and that is half the struggle.
+
+**Post-Build Space: -->**  I found the break point for my POST request.  But my Razor pages are working (up until the break) and that wasn't the case yesterday.  So yay!  Lots of thoughts on ineritance and organizing this.  
+
+**Link to work:**  https://github.com/speudusa/BearPawPages
+
+**------------------------------------------------------**
+
 ### Day 11: Tues, Nov 10, 2020
 
 **Today's Progress**: Updating from Viewbag to ViewModels in .ASP Core MVC application.  
