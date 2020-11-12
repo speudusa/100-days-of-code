@@ -14,6 +14,20 @@
 **Link to work:**
 
 **------------------------------------------------------**
+### Day 13: Thrus, Nov 12, 2020
+
+
+**Today's Progress**: Started my Udemy course on full stack web dev
+
+**Thoughts/Notes/Braindump space:** while, I feel confident in my JS & HTML skills, CSS and Bootstrap are not areas I'm strong in yet.  
+
+**Pre-Build Space -->**  Ready to learn.  In the green zone.
+
+**Post-Build Space: -->**  Much more indepth explanation of the boilerplate, unicode, and meta data.  Glad I tuned in.  
+
+**Link to work:**  ----
+
+**------------------------------------------------------**
 
 ### Day 12: Wed, Nov 11, 2020
 
