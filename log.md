@@ -14,6 +14,21 @@
 **Link to work:**
 
 **------------------------------------------------------**
+
+### Day 14: Fri, Nov 13, 2020 (eep!)
+
+
+**Today's Progress**: reverting back to viewbags at the moment.  
+
+**Thoughts/Notes/Braindump space:** My code is a mess, so stepping back to something that worked and I understood.  Plan to revisit how to update to persistent data and start fresh (not almost a month later)
+
+**Pre-Build Space -->**  it's a mess
+
+**Post-Build Space: -->**  i'm great at building MVC elements for get request.  lol!  everyday we make progress.
+
+**Link to work:**  https://github.com/speudusa/BearPawPages
+
+**------------------------------------------------------**
 ### Day 13: Thrus, Nov 12, 2020
 
 
