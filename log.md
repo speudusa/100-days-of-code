@@ -22,7 +22,12 @@
 
 **Pre-Build Space -->**  reviewing chapters on MVC, applying small changes as I read.  It's always best to keep poking at it, right?
 
-**Post-Build Space: -->**  creating questions for tonight.  Trying to predict answers based on my review and identify specific areas of trouble to help make the best use of time tonight. updating my own comments and running program to identify where it catches.  
+**Post-Build Space: -->**  
+ - creating questions for tonight.  
+ - created documentation page within build for my sanity
+ - updated HTML on edit.cshtml page to utilize viewmodel not viewbag
+ - new error:  CS1503  (ooo!)
+
 
 **Link to work:**  https://github.com/speudusa/BearPawPages
 
