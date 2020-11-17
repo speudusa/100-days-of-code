@@ -14,6 +14,32 @@
 **Link to work:**
 
 **------------------------------------------------------**
+### Day 16: Tues, Nov 17, 2020
+
+**Today's Progress**: reviewing class notes and book about MVC princilples.
+
+**Thoughts/Notes/Braindump space:** meeting with classmate tonight to discuss
+
+**Pre-Build Space -->**  reviewing chapters on MVC, applying small changes as I read.  It's always best to keep poking at it, right?
+
+**Post-Build Space: -->**  creating questions for tonight.  Trying to predict answers based on my review and identify specific areas of trouble to help make the best use of time tonight. updating my own comments and running program to identify where it catches.  
+
+**Link to work:**  https://github.com/speudusa/BearPawPages
+
+**------------------------------------------------------**
+### Day 15: Mon, Nov 16, 2020
+
+**Today's Progress**: reviewing class notes about inheritence...  
+
+**Thoughts/Notes/Braindump space:** will be asking classmate for help on this tomorrow night.  
+
+**Pre-Build Space -->**  Do I need a seperate viewmodel for editing?  how does Updating work??
+
+**Post-Build Space: -->**  Didn't get very far.  Revisited my edit and bookmark methods.  
+
+**Link to work:**  https://github.com/speudusa/BearPawPages
+
+**------------------------------------------------------**
 
 ### Day 14: Fri, Nov 13, 2020 (eep!)
 
