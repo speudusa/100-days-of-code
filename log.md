@@ -14,6 +14,30 @@
 **Link to work:**
 
 **------------------------------------------------------**
+
+
+### Day 17: Thurs, Nov 19, 2020
+
+**Today's Progress**: revamped the Delete function
+
+**Thoughts/Notes/Braindump space:** delete works, but is one long list with check boxes.  Would like this to be on a details view (less dangerous)
+
+**Pre-Build Space -->**  delete was NOT working.  trying to use a viewmodel, but went back to simpler array of ints.
+
+**Post-Build Space: -->** created array of ints holding book object ids to delete.
+after talking to classmate, discussed how edit is a combo of add/delete.  Need to look into this and play with it more.
+
+Verified with mySQL data, and found that adding a book object does work, as does deleting.  
+When I edit, the get request is filled, but the post is not working. (405 error)
+When I try bookmark, neither get or post works... so there's that...  
+
+Yay more things to play with!  :grin:  :tired_face:  :wink:
+
+**Link to work:**  https://github.com/speudusa/BearPawPages
+
+**------------------------------------------------------**
+
+
 ### Day 16: Tues, Nov 17, 2020
 
 **Today's Progress**: reviewing class notes and book about MVC princilples.
